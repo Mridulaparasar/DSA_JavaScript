@@ -40,4 +40,4 @@ function linearSearch(arr, target) {
     }  return -1;
 }
 console.log(linearSearch([10, 20, 30, 40, 50], 30));
-console.log(linearSearch([10, 20, 30, 40, 50], 60));
+console.log(linearSearch([10, 20, 30, 40, 50], 60)); 
